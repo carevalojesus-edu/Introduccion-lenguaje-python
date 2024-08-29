@@ -3,14 +3,12 @@ print("Hola bienvenidos al curso de Python")
 
 nombresPersonas = ["Juan", "Luis", "Christian"]
 nombrePersona = "Christian"
-edadPersona = [12,16,31]
+edadPersona = 20
 fechaNacimiento = "10-12-1992"
 
 print(nombrePersona)
 print(edadPersona)
 
-
-genero = "masculino"
 # variables
 # letras
 # numeros
@@ -18,4 +16,3 @@ genero = "masculino"
 
 # nunca deben comenzar con "_"
 
-print(genero)
