@@ -8,4 +8,4 @@ def saludar(nombre, anio_nacimiento):
     print(edad, sexo)
 
 
-print(edad)
+print(edad) # Error ya que no se puede acceder a la variable local

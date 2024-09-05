@@ -1,0 +1,3 @@
+import mimodulo
+
+mimodulo.saludar()
