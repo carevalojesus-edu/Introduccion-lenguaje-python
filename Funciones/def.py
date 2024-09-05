@@ -1,7 +1,7 @@
 # Una funcion es un bloque de codigo que realiza una tarea en especifico y que puede ser reutilizable en cualquier parte del codigo
-# Una funcion puede dividir el codigo en parta mas pequeñas y manejables
+# Una funcion puede dividir el codigo en partes mas pequeñas y manejables
 
-# def nombre_de_la_funcion():
+# def nombre_de_la_funcion(): Sintasix
 
 def saludar():
     print("Hola, bienvenidos al curso de Python")
